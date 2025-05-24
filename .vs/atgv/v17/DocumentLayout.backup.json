@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|solutionrelative:atgv.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|solutionrelative:atgv.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "atgv.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "atgv.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:06:20.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "atgv.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Class1.cs",
+              "RelativeToolTip": "atgv.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:02:21.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "atgv.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "atgv.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:00:57.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
