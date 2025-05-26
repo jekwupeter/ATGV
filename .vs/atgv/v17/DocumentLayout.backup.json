@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|solutionrelative:atgv.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\services\\accesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\services\\accesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|solutionrelative:atgv.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.core\\entities\\accesstoken.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|solutionrelative:atgv.core\\entities\\accesstoken.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.api\\controllers\\accesstokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|solutionrelative:atgv.api\\controllers\\accesstokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|solutionrelative:atgv.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|solutionrelative:atgv.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5201AA60-0561-4726-8D90-94B43B107942}|atgv.Infrastructure\\atgv.Infrastructure.csproj|solutionrelative:atgv.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|solutionrelative:atgv.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.core\\interfaces\\iaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6B52D8-10A7-4E1E-B94C-A281E59CB30D}|atgv.Core\\atgv.Core.csproj|solutionrelative:atgv.core\\interfaces\\iaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|c:\\users\\cephas\\source\\repos\\atgv\\atgv\\atgv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72465F74-33F5-4AF8-84CF-B7428C427A96}|atgv.API\\atgv.API.csproj|solutionrelative:atgv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,44 +79,168 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "atgv.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "atgv.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Program.cs",
+              "RelativeDocumentMoniker": "atgv.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Program.cs",
+              "RelativeToolTip": "atgv.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T19:06:20.12Z",
+              "WhenOpened": "2025-05-25T18:11:53.438Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "atgv.Core\\Class1.cs",
-              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Class1.cs",
-              "RelativeToolTip": "atgv.Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "atgv.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "atgv.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABIvQ8AAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T19:02:21.356Z",
+              "WhenOpened": "2025-05-26T01:37:09.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "atgv.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "atgv.Infrastructure\\Class1.cs",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "atgv.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "atgv.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:36:47.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "atgv.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "atgv.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:35:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessTokenController.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\AccessTokenController.cs",
+              "RelativeDocumentMoniker": "atgv.API\\Controllers\\AccessTokenController.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\AccessTokenController.cs",
+              "RelativeToolTip": "atgv.API\\Controllers\\AccessTokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:31:37.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "atgv.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Entities\\User.cs",
+              "RelativeToolTip": "atgv.Core\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T19:00:57.811Z",
+              "WhenOpened": "2025-05-26T01:31:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccessTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Interfaces\\IAccessTokenService.cs",
+              "RelativeDocumentMoniker": "atgv.Core\\Interfaces\\IAccessTokenService.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Interfaces\\IAccessTokenService.cs",
+              "RelativeToolTip": "atgv.Core\\Interfaces\\IAccessTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:29:53.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Utilities\\Helpers.cs",
+              "RelativeDocumentMoniker": "atgv.Infrastructure\\Utilities\\Helpers.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Utilities\\Helpers.cs",
+              "RelativeToolTip": "atgv.Infrastructure\\Utilities\\Helpers.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:29:12.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Services\\AccessTokenService.cs",
+              "RelativeDocumentMoniker": "atgv.Infrastructure\\Services\\AccessTokenService.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Infrastructure\\Services\\AccessTokenService.cs",
+              "RelativeToolTip": "atgv.Infrastructure\\Services\\AccessTokenService.cs",
+              "ViewState": "AgIAABcAAAAgMzMzMzMvwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:17:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Entities\\AccessToken.cs",
+              "RelativeDocumentMoniker": "atgv.Core\\Entities\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.Core\\Entities\\AccessToken.cs",
+              "RelativeToolTip": "atgv.Core\\Entities\\AccessToken.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:19:08.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\appsettings.json",
+              "RelativeDocumentMoniker": "atgv.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\appsettings.json",
+              "RelativeToolTip": "atgv.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T01:42:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "atgv.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Cephas\\source\\repos\\atgv\\ATGV\\atgv.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "atgv.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAACgmZmZmZklwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:37:21.293Z",
               "EditorCaption": ""
             }
           ]
